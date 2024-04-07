@@ -1,0 +1,34 @@
+Hello Everyone, 
+I'm excited to share PowerBI dashboard on "Road Accident Analysis``".
+
+ During the project below is the points cover in dashboard :-
+
+1] Total Current Year Casualties
+2] Current Year Count
+3] Current Year Fatal Casualties
+4] Current Year Serious Casualties
+5] Current Year Slight Casualties
+6] Casualties By Vechicle Type
+7] Current Year Casualties VS Previous Year Casualties Monthly Trends
+8] Casualties By Road Type
+9] Current Year Casualties By Urban/Rural
+10]Casualties By Lightconditions
+11]Casualties By Locations
+
+Github URL : 
+
+Skills used in the project include:
+
+Data Cleaning
+DAX & Calculated Columns
+Creation of Different Charts such as Bar Chart, Line Charts, Column charts,Pie Chart , Table etc.
+Creation of Slicers and Card Visual
+Creation of Measures
+Design and Development of Dashboard
+
+##screenshot add
+
+Where I Learn - From Codebasics Youtube Video Link ⬇️
+https://lnkd.in/dAJD-cXM
+
+#powerbi #powerbidashboard #dataanalysis #dataanalytics  #dataanalyst
